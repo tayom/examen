@@ -1,0 +1,41 @@
+#header{
+	background-color:#512888;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+#nav{
+	line-height: 30px;
+	background-color: #01DF74;
+	width: 15%;
+	float: left;
+	padding: 5px;
+}
+#section{
+	background-color: #04B431; 
+	width: 82%;
+	float: left;
+	padding: 10px
+}
+#footer{
+	background-color: black;
+	color: white;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+}
+/*body{
+  margin: 50px;
+  border-color: red;
+  border-width: 300%;
+}
+
+/* font-size: 2em;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 65%;
+  font-size: 36px;
+  color: inherit;*/
